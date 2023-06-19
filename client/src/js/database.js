@@ -1,5 +1,12 @@
+/* `import { openDB } from 'idb';` is importing the `openDB` function from the `idb` library. This
+function is used to create and connect to an IndexedDB database. */
 import { openDB } from 'idb';
 
+/**
+ * This function initializes a database named 'jate' with an object store named 'jate' and
+ * auto-incrementing IDs.
+ * @returns The `initdb` function is returning a promise that resolves to an IDBDatabase object.
+ */
 const initdb = async () =>
   openDB('jate', 1, {
     upgrade(db) {
