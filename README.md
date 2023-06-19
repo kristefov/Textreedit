@@ -49,7 +49,7 @@ For and suggestions or contributions you can reach me at my email address or you
 ## Link
 Link to repository:
 
-https://github.com/kristiyantefov/Techreedit
+https://github.com/kristiyantefov/Textreedit
 
 Link to website:
 
