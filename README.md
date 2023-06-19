@@ -84,3 +84,18 @@ https://textreedit-4923c8278495.herokuapp.com/
   alt="Alt text"
   title="MyLittleWebSHop"
   style="display: inline-block; margin: 0 auto; max-width:">
+    <img
+  src="./client/src/images/Screenshot 2023-06-19 at 18.01.14.png"
+  alt="Alt text"
+  title="MyLittleWebSHop"
+  style="display: inline-block; margin: 0 auto; max-width:">
+    <img
+  src="./client/src/images/Screenshot 2023-06-19 at 18.01.22.png"
+  alt="Alt text"
+  title="MyLittleWebSHop"
+  style="display: inline-block; margin: 0 auto; max-width:">
+    <img
+  src="./client/src/images/Screenshot 2023-06-19 at 18.01.38.png"
+  alt="Alt text"
+  title="MyLittleWebSHop"
+  style="display: inline-block; margin: 0 auto; max-width:">
