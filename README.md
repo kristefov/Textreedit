@@ -1,5 +1,5 @@
 [![Hex.pm](https://img.shields.io/badge/license%20-mit-blue?style=for-the-badge&logo=appveyor)](https://choosealicense.com/licenses/mit)
-# TechReEdit
+# TextReEdit
 
 <img
   src="./client/src/images/logo.png"
@@ -22,7 +22,7 @@
 
 ## Description
 
-TechReEdit: Your Powerful Browser-Based Text Editor
+TextReEdit: Your Powerful Browser-Based Text Editor
 
 Introducing TechReedit, a versatile text editor that revolutionizes your writing experience right from your browser. With the ability to install it as a desktop application, TechReedit offers a seamless and efficient solution for all your writing needs. Powered by IndexedDB, this innovative database technology ensures optimal performance and enhanced productivity.
 
